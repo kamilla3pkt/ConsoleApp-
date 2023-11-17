@@ -9,6 +9,10 @@ class Hello
         Console.WriteLine("Hello!");
             Console.WriteLine("Hello!!!!");
 
+
+            Console.WriteLine("ячсми");
+            Console.WriteLine("йцуке");
+
             Console.WriteLine("здьти");
             Console.WriteLine("апролд");
 
