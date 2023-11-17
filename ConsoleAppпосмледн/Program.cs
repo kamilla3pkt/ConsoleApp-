@@ -8,6 +8,10 @@ class Hello
     {
         Console.WriteLine("Hello!");
             Console.WriteLine("Hello!!!!");
+
+            Console.WriteLine("здьти");
+            Console.WriteLine("апролд");
+
         }
 }
 }
